@@ -1,0 +1,2 @@
+# terraform_aws_app_deployment
+Deploying a simple website on an ec2 instance with an autoScaling group that has an application load balancer to balance our work on our instances whenever our application handle too many requests and needs to scale, Mysql database to store website data with all of it's configuration with a random generated password, while handling all networking related work of creating our vpc, security groups and subnets.
